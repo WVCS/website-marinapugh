@@ -1,3 +1,25 @@
 body {
+  background-color:pink;
+}
+
+h1{
+  color:lightgreen;
+  font-size: 40px;
+  text-decoration-line: overline underline;
+  text-decoration-style: wavy;
+    letter-spacing: 7px;
+    line-height: 1.8;
+  font-family: "Lucida Handwriting", Cursive;
+  text-shadow: 2px 3px green;
+  border-top-style: dotted;
+border-right-style: solid;
+  border-bottom-style: dotted;
+  border-left-style: solid;
+  
+  
+}
+img {
+  width: 400px
+      border-radius: 8px;
 
 }
